@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #111;
+    color: #eee;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 40px 20px;
+    background: #222;
+    border-bottom: 2px solid #444;
+}
+
+h1 {
+    margin: 0;
+    font-size: 32px;
+}
+
+.content {
+    padding: 30px 20px;
+}
+
+.content img {
+    width: 40%;
+    border-radius: 10px;
+    margin-top: 20px;
+    border: 3px solid #444;
+}
+
+.play {
+    margin-top: 40px;
+}
+
+.play-btn {
+    display: inline-block;
+    padding: 15px 30px;
+    background: #ff4747;
+    color: white;
+    font-size: 22px;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: 0.2s;
+}
+
+.play-btn:hover {
+    background: #ff6b6b;
+}
