@@ -99,5 +99,4 @@ L'ordre de combat està definit per la posició dels aliats (1 al 4), seguit de 
 
 ---
 
-## ✒️ Autor
 * **P. Guardia** - [Perfil de GitHub](https://github.com/pguardia-dam)
