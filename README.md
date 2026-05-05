@@ -44,14 +44,35 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
 
 ### · Login
 
-<p align="center">
+<div align="center">
+  <h3>Login</h3>
   <img src="images/cap5.png" width="45%">
-  <p>Login</p>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <h3>Register</h3>
   <img src="images/cap6.png" width="45%">
-  <p>Register</p>
-</p>
+</div>
+<br>
+<br>
 
+<div align="center">
+  <p>El joc conta amb un sistema de gestor d'usuaris. De manera que cada usuari pot equipar les seves habilitats propies. </p>
+</div>
 
+</div>
+  <p>
+    <img src="images/cap7.png" width="45%">
+    Un cop ja has iniciat sessió amb un usuari correcte, l'usuari s'asigna automaticament al gestor d'usuari actiu i et permet entrar al joc
+  </p>
+<div>
+  
+### · Open World
+
+<h3>Objectes interactuables</h3>
+</div>
+  <p>
+    <img src="images/cap8.png" width="45%">
+    En el món obert el jugador pot interactuar amb diferents objectes
+  </p>
+<div>
