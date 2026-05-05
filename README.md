@@ -17,7 +17,7 @@ Pots provar el joc directament al navegador a través de les següents plataform
 
 | Plataforma | Enllaç Directe |
 | :--- | :--- |
-| **GitHub Pages** | [🕹️ Juga a la versió WebGL](https://pguardia-dam.github.io/MmaloteWEB/) |
+| **GitHub Pages** | [🕹️ Juga a la versió WebGL](https://pguardia-dam.github.io/MmaloteWEB/game/index.html) |
 | **Itch.io** | [🎮 Visita la pàgina a Itch.io](https://sirmono25.itch.io/mmalote) |
 
 ---
