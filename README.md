@@ -61,8 +61,8 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
 </div>
 
 </div>
-  <p>
     <img src="images/cap7.png" width="45%">
+  <p>
     Un cop ja has iniciat sessió amb un usuari correcte, l'usuari s'asigna automaticament al gestor d'usuari actiu i et permet entrar al joc
   </p>
 <div>
@@ -71,8 +71,8 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
 
 <h3>Objectes interactuables</h3>
 </div>
-  <p>
     <img src="images/cap8.png" width="45%">
+  <p>
     En el món obert el jugador pot interactuar amb diferents objectes
   </p>
 <div>
