@@ -99,5 +99,22 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
   <p>Per canviar les habilitats dels personatges primer s'ha de seleccionar el personatge</p>
   <p>Després s'ha de clicar la habilitat en concret que vols canvir</p>
   <p>Per últim s'ha de seleccionar per a quina habilitat vols canviar-la</p>
+  <img src="images/cap12.png" width="45%">
 </div>
+
+<h3>Combat</h3> 
+
+<div align="center">
+    <img src="images/cap13.png" width="45%">
+  <p>En començar el combat, el primer en actuar és l'aliat en primera posició</p>
+  <p>Després actua el peronatje 2 --> 3 --> 4</p>
+  <p>Per últim, el personatge enemic ataca a un dels aliats de manera aleatoria</p>
+</div>
+
+<div align="center">
+  <img src="images/cap14.png" width="45%">
+  <p>Cada personatge pot escollir una de les seves</p>
+  <p>Al posar el cursor a sobre de l'habilitat, s'obre un menú on s'explica què fa cada habilitat</p>
+</div>
+
 
