@@ -19,11 +19,6 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
   <img src="images/cap3.png" width="45%">
   <img src="images/cap4.png" width="45%">
 </p>
-
-<p align="center">
-  <img src="images/cap3.png" width="60%">
-</p>
-
 ---
 
 ## 🧩 Característiques
@@ -46,4 +41,17 @@ Benvingut al repositori oficial del meu joc **Mmalote**, desenvolupat amb Unity 
 ---
 
 ## 📦 Estructura del projecte
+
+### · Login
+
+<p align="center">
+  <img src="images/cap5.png" width="45%">
+  <p>Login</p>
+</p>
+
+<p align="center">
+  <img src="images/cap6.png" width="45%">
+  <p>Register</p>
+</p>
+
 
